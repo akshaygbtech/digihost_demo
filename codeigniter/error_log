@@ -1,0 +1,22 @@
+[25-Nov-2020 07:52:49 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/exotielp/public_html/strlex/application/controllers/App_json.php on line 159
+[30-Nov-2020 11:50:26 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::jon() in /home/exotielp/public_html/strlex/application/models/Product_model.php on line 403
+[08-Dec-2020 13:06:03 UTC] PHP Fatal error:  Cannot redeclare App_json::most_popular_product_list() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 701
+[19-Dec-2020 06:07:47 UTC] PHP Fatal error:  Cannot redeclare App_json::customer_address() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 4881
+[19-Dec-2020 06:07:47 UTC] PHP Fatal error:  Cannot redeclare App_json::customer_address() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 4881
+[19-Dec-2020 06:08:28 UTC] PHP Fatal error:  Cannot redeclare App_json::customer_address() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 4881
+[19-Dec-2020 06:08:38 UTC] PHP Fatal error:  Cannot redeclare App_json::customer_address() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 4881
+[19-Dec-2020 06:08:39 UTC] PHP Fatal error:  Cannot redeclare App_json::customer_address() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 4881
+[19-Dec-2020 06:09:26 UTC] PHP Fatal error:  Cannot redeclare App_json::customer_address() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 4881
+[19-Dec-2020 06:10:05 UTC] PHP Fatal error:  Cannot redeclare App_json::customer_address_record() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 4935
+[19-Dec-2020 06:10:20 UTC] PHP Fatal error:  Cannot redeclare App_json::customer_address_update() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 4992
+[19-Dec-2020 06:10:40 UTC] PHP Fatal error:  Cannot redeclare App_json::address_delete() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 5042
+[19-Dec-2020 12:52:02 UTC] PHP Fatal error:  Cannot redeclare App_json::getAllProducts() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 4336
+[19-Dec-2020 12:52:02 UTC] PHP Fatal error:  Cannot redeclare App_json::getAllProducts() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 4336
+[19-Dec-2020 12:52:04 UTC] PHP Fatal error:  Cannot redeclare App_json::getAllProducts() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 4336
+[19-Dec-2020 12:52:25 UTC] PHP Fatal error:  Cannot redeclare App_json::getAllProducts() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 4336
+[19-Dec-2020 12:52:25 UTC] PHP Fatal error:  Cannot redeclare App_json::getAllProducts() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 4336
+[19-Dec-2020 12:52:25 UTC] PHP Fatal error:  Cannot redeclare App_json::getAllProducts() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 4336
+[19-Dec-2020 12:52:40 UTC] PHP Fatal error:  Cannot redeclare App_json::getAllProducts() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 4336
+[23-Dec-2020 06:29:24 UTC] PHP Fatal error:  Cannot redeclare App_json::getHomePage() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 2170
+[23-Dec-2020 07:36:05 UTC] PHP Fatal error:  Cannot redeclare App_json::subcategory_list() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 2216
+[23-Dec-2020 13:25:09 UTC] PHP Fatal error:  Cannot redeclare App_json::cartWiseListing() in /home/aimbeat/public_html/akshay/jwellmax/application/controllers/App_json.php on line 2496
